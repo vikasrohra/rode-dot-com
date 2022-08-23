@@ -1,4 +1,4 @@
-# Rode Dot Com Clone
+# Rode.com Clone
 
 ## Who am I?
 Hi, I'm `Vikas Rohra`, a web developer living in Mumbai, India.
